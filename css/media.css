@@ -1,0 +1,42 @@
+@media screen and (max-width:767px) {
+	#home h2 {
+		width: 100%;
+	}
+
+	#about {
+		width: 100%;
+	}
+
+	#about h2 {
+		width: 100%;
+	}
+
+	#about-container {
+		width: 100%;
+		font-size: 1.3rem;
+	}
+
+	#portfolio .portfolio-container {
+		width: 100%;
+	}
+
+	.porfolio-info {
+		width: 100%;
+	}
+
+	#portfolio h2 {
+		width: 100%;
+	}
+
+	/* .portfolio-img {
+		height: 400px;
+	} */
+
+	.contact {
+		width: 100%;
+	}
+
+	.contact h2 {
+		width: 100%;
+	}
+}
